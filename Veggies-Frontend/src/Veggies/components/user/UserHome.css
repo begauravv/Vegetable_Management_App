@@ -1,0 +1,40 @@
+#home{
+    padding-top: 3px;
+    padding-left: -3px;
+    color:black;
+    text-shadow: 2px 2px orangered;
+    text-align: center;
+}
+.nav-item1{
+    padding-left: 400px;
+    
+  }
+  
+    
+    /* .card-body{
+        background-color: whitesmoke;
+        text-align: center;
+        color:rgb(245, 13, 245);
+    } */
+    
+    /* .card{
+        padding-top: 0px;
+        display: inline-flex;
+        background-color:darkslategrey;
+        transition: transform .2s;
+        margin: 33px;
+        margin-left: 43px;
+    } */
+    li:hover {
+        transform: scale(1.1) 
+      }
+
+    /* #hpara{
+        margin-top:20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    } */
+    /* .nav-link{
+        padding-left: 13px;
+  padding-top: 13px;
+    }  */

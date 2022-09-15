@@ -1,0 +1,23 @@
+.card-deck{
+    margin-left: 150px;
+    
+            height:80px;
+            width:1000px;
+}
+#home{
+    color:yellow;
+    text-shadow: 2px 2px greenyellow;
+    text-align: center;
+}
+/* .card-header{
+    margin-left: 150px;
+            height:80px;
+            width:1000px; */
+
+/* } */
+/* .card{
+    margin-left: 150px;
+    height:100px;
+    width:500px
+
+} */
